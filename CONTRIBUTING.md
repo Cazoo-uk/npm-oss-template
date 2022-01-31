@@ -1,5 +1,9 @@
+## Tests
+
+This project uses TS-Jest for testing. Tests are written in jest, and can be run with `npm test`.
+
 ## Linting
-This project uses [Cazoo's ESLint config](https://github.com/Cazoo-uk/cazoo-eslint) for linting. Builds will fail if there are unresolved issues. Use `npm run lint` to autofix.
+This project uses [Cazoo's ESLint config](https://github.com/Cazoo-uk/cazoo-eslint) for linting. Builds will fail if there are unresolved issues. Use `npm run fix` to autofix.
 
 
 ## Releasing a new version
