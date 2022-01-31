@@ -1,3 +1,3 @@
 export default function isFoo(x: unknown) {
-  return x === 'foo'
+  return x === "foo";
 }
